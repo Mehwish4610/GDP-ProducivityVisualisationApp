@@ -32,27 +32,27 @@ The app aims to empower users—ranging from policymakers to students and analys
 
 **Sign Up Page**
 
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/SignupPge.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/SignupPge.png)
 
 **Log In Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/loginPage.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/loginPage.png)
 
 **Home Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/homePg1.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/HomePg1.png)
 
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/homePg5.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/homePg5.png)
 
 **Power BI Embedded Interactive Dashboard**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/embdeddahboard.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/embdeddahboard.png)
 
 **AI Integrated Chatboot**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/chatbot.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/chatbot.png)
 
 **Feedback Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/feedback.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/feedback.png)
 
 **Log Out Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/logout.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/logout.png)
 
 
 
