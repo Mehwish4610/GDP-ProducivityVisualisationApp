@@ -38,7 +38,7 @@ The app aims to empower users—ranging from policymakers to students and analys
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/loginPage.png)
 
 **Home Page**
-![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/HomePg1.png)
+![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/homePg1.png)
 
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/homePg5.png)
 
