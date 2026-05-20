@@ -8,7 +8,7 @@ import hashlib
 
 
 # Load the dataset
-df = pd.read_csv("E:\\gst_productivity\\dashboard_data.csv")
+df = pd.read_csv("dashboard_data.csv")
 
 # Load environment variables from .env
 load_dotenv()
@@ -65,7 +65,7 @@ if st.session_state.current_page == "Login":
             else:
                 st.error("Please fill in all fields.😰")
 
-        st.image("E:\gst_productivity\sign in.png", use_container_width=True)
+        st.image("sign in.png", use_container_width=True)
 
     elif page_choice == "Login":
         st.title("GDP and Productivity Visualisation App 📈")
@@ -82,7 +82,7 @@ if st.session_state.current_page == "Login":
             else:
                 st.error("Invalid credentials. Please try again.😰 Or SignIn if account not created!!")
 
-        st.image("E:\gst_productivity\LOGIN.png", use_container_width=True)
+        st.image("LOGIN.png", use_container_width=True)
 
 elif st.session_state.current_page == "Home":
     # Sidebar navigation
@@ -91,7 +91,7 @@ elif st.session_state.current_page == "Home":
     if page == "Home":
         st.markdown(f" ### Welcome {st.session_state.user_name}!")
         st.title("GDP and Productivity Visualisation App 📈")
-        st.image("E:\gst_productivity\home.png", use_container_width=True)
+        st.image("home.png", use_container_width=True)
 
         #filters
         cities = df['City'].unique()
@@ -277,7 +277,7 @@ elif st.session_state.current_page == "Home":
                 st.write(response['choices'][0]['message']['content'])
             except Exception as e:
                 st.error(f"Error: {str(e)}")
-        st.image("E:\gst_productivity\chatbot (2).png", use_container_width=True)
+        st.image("chatbot (2).png", use_container_width=True)
 
     elif page == "Feedback":
         st.title("Feedback")
@@ -312,7 +312,7 @@ elif st.session_state.current_page == "Home":
             else:
                 st.error("Both fields are required. Please fill them out.")
 
-        st.image("E:\gst_productivity\sdf.png", use_container_width=True)
+        st.image("sdf.png", use_container_width=True)
 
     elif page == "Logout":
         st.image("E:\gst_productivity\lohoutpg.png", use_container_width=True)
