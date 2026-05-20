@@ -315,7 +315,7 @@ elif st.session_state.current_page == "Home":
         st.image("sdf.png", use_container_width=True)
 
     elif page == "Logout":
-        st.image("E:\gst_productivity\lohoutpg.png", use_container_width=True)
+        st.image("lohoutpg.png", use_container_width=True)
         st.session_state.authenticated = False
         st.session_state.user_name = None
         st.session_state.current_page = "Login"
