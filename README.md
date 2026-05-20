@@ -35,23 +35,29 @@ The app aims to empower users—ranging from policymakers to students and analys
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/SignupPge.png)
 
 **Log In Page**
+
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/loginPage.png)
 
 **Home Page**
+
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/homePg1.png)
 
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/homePg5.png)
 
 **Power BI Embedded Interactive Dashboard**
+
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/embdeddahboard.png)
 
 **AI Integrated Chatboot**
+
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/chatbot.png)
 
 **Feedback Page**
+
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/feedback.png)
 
 **Log Out Page**
+
 ![App Screenshot](https://github.com/Mehwish4610/GDP-ProducivityVisualisationApp/blob/main/logout.png)
 
 
